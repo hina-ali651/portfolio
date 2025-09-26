@@ -1,3 +1,28 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "about-hina",
+      "description": "A professional portrait of Hina Ali",
+      "imageUrl": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTg3OTg4OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional portrait"
+    },
+    {
+      "id": "portfolio-mcp",
+      "description": "Screenshot of the MCP Workflow Project",
+      "imageUrl": "https://images.unsplash.com/photo-1667053310801-d83094493eb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkYXNoYm9hcmQlMjB3b3JrZmxvd3xlbnwwfHx8fDE3NTg4ODU1NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dashboard workflow"
+    },
+    {
+      "id": "portfolio-whatsapp",
+      "description": "Screenshot of the WhatsApp and Google Sheets integration",
+      "imageUrl": "https://images.unsplash.com/photo-1694878982018-561e965dd981?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjaGF0JTIwaW50ZXJmYWNlfGVufDB8fHx8MTc1ODg4MDc3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chat interface"
+    },
+    {
+      "id": "portfolio-ai-agent",
+      "description": "Screenshot of the AI Agent with a Firebase frontend",
+      "imageUrl": "https://images.unsplash.com/photo-1487014679447-9f8336841d58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3ZWIlMjBhcHBsaWNhdGlvbnxlbnwwfHx8fDE3NTg3OTY3MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "web application"
+    }
+  ]
 }
